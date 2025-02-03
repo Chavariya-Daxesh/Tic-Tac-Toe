@@ -59,7 +59,7 @@ button {
 }
 
 .msg-Container {
-    height: 100vmin;
+    height: 250vmin;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -93,5 +93,5 @@ button {
 
     #msg {
         font-size: 6vmin;
-    }
+    } 
 }
